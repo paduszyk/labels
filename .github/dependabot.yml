@@ -1,0 +1,19 @@
+version: 2
+
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+    labels:
+      - "Priority: Low"
+      - "Status: Review Needed"
+      - "Type: Maintenance"
+  - package-ecosystem: npm
+    directory: "/"
+    schedule:
+      interval: weekly
+    labels:
+      - "Priority: Low"
+      - "Status: Review Needed"
+      - "Type: Maintenance"
