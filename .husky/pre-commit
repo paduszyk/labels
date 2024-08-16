@@ -1,0 +1,5 @@
+# Prettify all files
+npx prettier --check .
+
+# Lint the Markdown files
+npx markdownlint-cli2
