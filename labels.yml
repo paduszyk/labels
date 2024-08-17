@@ -48,6 +48,9 @@
 - name: "Type: Bug"
   color: "e11c21"
 
+- name: "Type: Documentation"
+  color: "0075ca"
+
 - name: "Type: Maintenance"
   color: "fbca04"
 
