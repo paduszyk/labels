@@ -53,7 +53,7 @@
 
 - name: "Type: Fix"
   color: "#009800"
-  
+
 - name: "Type: Maintenance"
   color: "fbca04"
 
