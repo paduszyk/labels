@@ -51,6 +51,9 @@
 - name: "Type: Documentation"
   color: "0075ca"
 
+- name: "Type: Fix"
+  color: "#009800"
+  
 - name: "Type: Maintenance"
   color: "fbca04"
 
