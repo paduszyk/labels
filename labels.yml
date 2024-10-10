@@ -1,61 +1,61 @@
 # Keep the label names in alphabetical order.
 
-- name: "Priority: Critical"
+- name: "priority: critical"
   color: "e11c21"
 
-- name: "Priority: High"
+- name: "priority: high"
   color: "eb641f"
 
-- name: "Priority: Low"
+- name: "priority: low"
   color: "009800"
 
-- name: "Priority: Medium"
+- name: "priority: medium"
   color: "fbca04"
 
-- name: "Status: Abandoned"
+- name: "status: abandoned"
   color: "000000"
 
-- name: "Status: Accepted"
+- name: "status: accepted"
   color: "009800"
 
-- name: "Status: Available"
+- name: "status: available"
   color: "bfe5bf"
 
-- name: "Status: Blocked"
+- name: "status: blocked"
   color: "e11c21"
 
-- name: "Status: Completed"
+- name: "status: completed"
   color: "006b75"
 
-- name: "Status: In Progress"
+- name: "status: in progress"
   color: "cccccc"
 
-- name: "Status: On Hold"
+- name: "status: on hold"
   color: "e11c21"
 
-- name: "Status: Pending"
+- name: "status: pending"
   color: "fef2c0"
 
-- name: "Status: Review Needed"
+- name: "status: review needed"
   color: "fbca04"
 
-- name: "Status: Revision Needed"
+- name: "status: revision needed"
   color: "e11c21"
 
-- name: "Type: Enhancement"
+- name: "type: enhancement"
   color: "84b6eb"
 
-- name: "Type: Bug"
+- name: "type: bug"
   color: "e11c21"
 
-- name: "Type: Documentation"
+- name: "type: documentation"
   color: "0075ca"
 
-- name: "Type: Fix"
+- name: "type: fix"
   color: "#009800"
 
-- name: "Type: Maintenance"
+- name: "type: maintenance"
   color: "fbca04"
 
-- name: "Type: Question"
+- name: "type: question"
   color: "cc317c"
