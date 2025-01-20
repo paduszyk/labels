@@ -15,5 +15,5 @@ updates:
       interval: weekly
     labels:
       - "priority: low"
-      - "status: review Needed"
+      - "status: review needed"
       - "type: maintenance"
